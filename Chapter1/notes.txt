@@ -1,0 +1,8 @@
+Here I write down all the things I learned from doing the questions 
+  From Q1:
+    Ascii is 128 unique characters but represents 256 characters.
+    A to Z starts from 65 to 90.
+    a to z starts from 97 to 122.
+
+  From Q2:
+  java.util.array.sort uses quick or merge sort.
